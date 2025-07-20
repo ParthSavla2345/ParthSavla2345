@@ -38,10 +38,7 @@
 
 ## 🏅 Achievements & Certifications
 
-🏆 Top 5 – VES-HACK-IT  
-🏅 Top 10 – IWOC 2.0  
-🏅 Top 10 – HackJKLU v3.0  
-📜 Numerous certifications listed on [LinkedIn](https://www.linkedin.com/in/parth-savla-7575a5231/)
+
 
 ---
 
