@@ -3,7 +3,7 @@
 🚀 
 I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at Dwarkadas J. Sanghvi College of Engineering. I also hold a diploma in Computer Science, which has given me a strong technical foundation and early exposure to software development practices.
 
-💻 With hands-on experience from both academic projects and a Java/Web Developer internship, I’ve built several scalable and responsive web applications. My core development skills include Java, Python, HTML, CSS, JavaScript, and modern web frameworks like React, Node.js, and Express. I'm also skilled in database management using MongoDB and MySQL.
+💻 With hands-on experience from both academic projects and a Java Developer internship, I’ve built several scalable and responsive web applications. My core development skills include Java, Python, HTML, CSS, JavaScript, and modern web frameworks like React, Node.js, and Express. I'm also skilled in database management using MongoDB and MySQL.
 
 🧠 My interest in data-driven problem-solving has led me to explore the fields of Machine Learning, Data Analysis, and Generative AI. I'm proficient in using tools like Pandas, NumPy, Scikit-learn, TensorFlow, and Keras to build and deploy intelligent models. Recently, I’ve been exploring LangChain and how it enables LLM-powered applications.
 
