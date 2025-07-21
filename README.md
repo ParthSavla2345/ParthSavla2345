@@ -13,7 +13,6 @@ I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, cur
 **May 2024 – Present**
 
 - Working on the **Compliance Platform Website** as a **Backend Developer**
-- Designing and implementing REST APIs and backend architecture
 - Collaborating in a cybersecurity-focused development team to enhance threat and compliance automation
 - Gained hands-on experience in secure backend development and platform integrations
 
@@ -23,9 +22,8 @@ I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, cur
 - Built a responsive e-commerce platform for mobile/laptop sales  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Java, JDBC, Java Servlet  
-- **Database**: SQL  
-- Enhanced backend performance by reducing transaction processing time and optimizing query efficiency  
-- Improved page load speed by 25% and mobile conversions by 30%
+- **Database**: SQL
+ 
 ---
 
 ## 📄 Resume
