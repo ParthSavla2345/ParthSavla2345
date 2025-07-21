@@ -4,23 +4,6 @@
 I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at Dwarkadas J. Sanghvi College of Engineering. I also hold a diploma in Computer Science, which has given me a strong technical foundation and early exposure to software development practices.
 
 💻 With hands-on experience from both academic projects and a Java Developer internship, I’ve built several scalable and responsive web applications. My core development skills include Java, Python, HTML, CSS, JavaScript, and modern web frameworks like React, Node.js, and Express. I'm also skilled in database management using MongoDB and MySQL.
-
-🧠 My interest in data-driven problem-solving has led me to explore the fields of Machine Learning, Data Analysis, and Generative AI. I'm proficient in using tools like Pandas, NumPy, Scikit-learn, TensorFlow, and Keras to build and deploy intelligent models. Recently, I’ve been exploring LangChain and how it enables LLM-powered applications.
-
-🌐 I enjoy bridging the gap between frontend creativity, backend logic, and AI capabilities, striving to build solutions that are not only functional but also user-centric and impactful.
-
-✨ Key Highlights:
-
-Strong grasp of full-stack development, from design to deployment.
-
-Solid foundation in ML algorithms, data pipelines, and AI model integration.
-
-Experience in collaborative development using Git and project planning tools.
-
-Passionate about emerging technologies, open-source contributions, and continuous learning.
-
-🔍 Always curious. Always building. Whether it's designing elegant UIs, optimizing backend APIs, or experimenting with cutting-edge ML tools—I love turning ideas into working solutions.
-
 ---
 
 ## 💼 Work Experience
@@ -42,23 +25,6 @@ Passionate about emerging technologies, open-source contributions, and continuou
 - **Database**: SQL  
 - Enhanced backend performance by reducing transaction processing time and optimizing query efficiency  
 - Improved page load speed by 25% and mobile conversions by 30%
-
----
-
-## 📜 Certifications
-
-- ✅ [**Data Analytics Job Simulation** – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_PySizdLToNkkfYYoS_1743696790221_completion_certificate.pdf)
-- ✅ [**GenAI Powered Data Analytics Job Simulation** – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_PySizdLToNkkfYYoS_1751023571185_completion_certificate.pdf)
-- ✅ [**AWS Academy Graduate – Cloud Foundations**](https://www.credly.com/badges/fc35e9d2-c25b-49c2-ba39-f25a145cc59d/print)
-
----
-
-## 💻 Projects
-
-- 🔗 [**Feme Candles – Shopify Website**](https://femecandles.com/)
-- 🧠 [**Diabetes Detection ML System**](https://diabetes-detection-3ynjczd5ewdef9ghpqk8ad.streamlit.app/)
-- 💼 [**Funngro Clone Web App**](https://parthsavla2345.github.io/Funngro-Clone-App/)
-
 ---
 
 ## 📄 Resume
