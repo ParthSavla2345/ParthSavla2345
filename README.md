@@ -25,13 +25,6 @@ I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, cur
 - **Database**: SQL
  
 ---
-
-## 📄 Resume
-
-[![Download Resume](https://img.shields.io/badge/Resume-Click%20to%20Download-blue?style=for-the-badge&logo=google-drive&logoColor=white)](mailto:parthwork045@gmail.com)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
