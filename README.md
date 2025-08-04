@@ -10,7 +10,7 @@ I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, cur
 ## 💼 Work Experience
 
 ### 🔐 Cyber Analyst Intern — **DeepCytes Cyber Labs**
-**May 2024 – Present**
+**May 2025 – Present**
 
 - Working on the **Compliance Platform Website** as a **Backend Developer**
 - Collaborating in a cybersecurity-focused development team to enhance threat and compliance automation
