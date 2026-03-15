@@ -1,30 +1,43 @@
 ## 👋 Hello, I’m Parth Savla
 
 🚀
-I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at Dwarkadas J. Sanghvi College of Engineering. I also hold a diploma in Computer Science, which has given me a strong technical foundation and early exposure to software development practices.
+I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at Dwarkadas J. Sanghvi College of Engineering. I also hold a diploma in Computer Science from KJ Somaiya Polytechnic with 91.20%, which provided me with a strong technical foundation and early exposure to software development practices.
 
-💻 With hands-on experience from both academic projects and a Java Developer internship, I’ve built several scalable and responsive web applications. My core development skills include Java, Python, HTML, CSS, JavaScript, and modern web frameworks like React, Node.js, and Express. I'm also skilled in database management using MongoDB and MySQL.
+💻 With hands-on experience from internships and academic projects, I’ve built scalable web applications and data-driven systems. My core development skills include Java, Python, HTML, CSS, JavaScript, and modern web frameworks like React, Node.js, and Express. I also have experience working with databases such as MongoDB and SQL, along with machine learning tools for data analysis and predictive modeling.
 
 ---
 
 ## 💼 Work Experience
 
 ### 🔐 Cyber Analyst Intern — **DeepCytes Cyber Labs**
-**May 2025 – Present**
+**June 2025 – Dec 2025**
 
-- Working on the **Compliance Platform Website** as a **Backend Developer**
-- Collaborating in a cybersecurity-focused development team to enhance threat and compliance automation
-- Gained hands-on experience in secure backend development and platform integrations
+- Engineered a **Cyber Compliance Management Platform** enabling 100+ users across organizations to evaluate adherence to cybersecurity standards through automated quiz-based assessments.
+- Improved platform performance from **5 seconds to 1.5 seconds (70% improvement)** by optimizing backend architecture, implementing caching, and enhancing API performance.
+- Developed **secure role-based dashboards** supporting onboarding for 50+ employees per organization.
+- Implemented systems to manage and track **500+ compliance submissions per month**.
+- Collaborated with cybersecurity professionals to enhance **platform security, backend scalability, and compliance automation workflows**.
 
-### 🖥️ Java/Web Developer Intern — **Squad Infotech Pvt Ltd**
+### 📊 Data Science Intern — **IISPPR**
+**August 2025 – September 2025**
+
+- Analyzed **150+ Startup India–recognized startups** to assess program impact, identify policy gaps, and evaluate ecosystem performance.
+- Conducted comparative benchmarking with international programs such as **Israel’s Yozma, Singapore’s SGInnovate, and Startup Chile**.
+- Developed **5 strategic policy recommendations** to improve domestic angel investment and early-stage startup funding.
+- Applied **statistical analysis and data-driven methodologies** to evaluate policy effectiveness.
+- Generated insights and reports to support **evidence-based decision-making for policy stakeholders**.
+
+### 🖥️ Java Developer Intern — **Squad Infotech Pvt Ltd**
 **June 2023 – July 2023**
 
-- Built a responsive e-commerce platform for mobile/laptop sales  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Java, JDBC, Java Servlet  
-- **Database**: SQL
- 
+- Developed a **responsive e-commerce platform** for mobile and laptop sales using HTML, CSS, and JavaScript, improving page load speed by **25%** and reducing bounce rate by **15%**.
+- Designed a **mobile-first UI** that increased user engagement by **20%** and boosted mobile conversions by **30%**.
+- Implemented backend functionality using **Java, JDBC, and Java Servlets** to process customer data and transactions in real time.
+- Optimized **SQL database queries**, reducing data retrieval time by **30%** and improving application performance.
+- Contributed to building a scalable and efficient **online product management and ordering system**.
+
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -72,10 +85,6 @@ I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, cur
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
-<a href="https://www.scipy.org/" target="_blank"><img src="https://scipy.org/images/logo.svg" alt="scipy" width="60" height="60"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a>
-<a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="60" height="60"/></a>
 </p>
 
 ---
-
