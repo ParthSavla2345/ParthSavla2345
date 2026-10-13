@@ -27,14 +27,7 @@ I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, cur
 - Applied **statistical analysis and data-driven methodologies** to evaluate policy effectiveness.
 - Generated insights and reports to support **evidence-based decision-making for policy stakeholders**.
 
-### 🖥️ Java Developer Intern — **Squad Infotech Pvt Ltd**
-**June 2023 – July 2023**
 
-- Developed a **responsive e-commerce platform** for mobile and laptop sales using HTML, CSS, and JavaScript, improving page load speed by **25%** and reducing bounce rate by **15%**.
-- Designed a **mobile-first UI** that increased user engagement by **20%** and boosted mobile conversions by **30%**.
-- Implemented backend functionality using **Java, JDBC, and Java Servlets** to process customer data and transactions in real time.
-- Optimized **SQL database queries**, reducing data retrieval time by **30%** and improving application performance.
-- Contributed to building a scalable and efficient **online product management and ordering system**.
 
 ---
 
