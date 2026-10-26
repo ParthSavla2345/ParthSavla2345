@@ -1,7 +1,7 @@
 ## 👋 Hello, I’m Parth Savla
 
 🚀
-I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at Dwarkadas J. Sanghvi College of Engineering. I also hold a diploma in Computer Science from KJ Somaiya Polytechnic with 91.20%, which provided me with a strong technical foundation and early exposure to software development practices.
+I’m a passionate Full Stack Web Developer and Machine Learning Enthusiast, currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at Dwarkadas J. Sanghvi College of Engineering. I also hold a diploma in Computer Science from KJ Somaiya Polytechnic with 91.20%, which provided me with a strong technical foundation and early exposure to software development practices..
 
 💻 With hands-on experience from internships and academic projects, I’ve built scalable web applications and data-driven systems. My core development skills include Java, Python, HTML, CSS, JavaScript, and modern web frameworks like React, Node.js, and Express. I also have experience working with databases such as MongoDB and SQL, along with machine learning tools for data analysis and predictive modeling.
 
